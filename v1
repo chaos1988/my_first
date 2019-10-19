@@ -1,0 +1,100 @@
+Last login: Sat Oct 19 22:00:52 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) chaozhi:~ leo$ subl
+(base) chaozhi:~ leo$ git add version.txt
+fatal: not a git repository (or any of the parent directories): .git
+(base) chaozhi:~ leo$ ls
+Adlm
+Applications
+Applications (Parallels)
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Downloads-2.mp4
+Downloads.mp4
+ENOVATE_UI_framework_IVI_launcher_02.25.2019.sketch
+Library
+Movies
+Music
+Parallels
+Pictures
+PlayOnMac's virtual drives
+Public
+alibaba,txt
+alibaba.txt
+anaconda3
+maya
+pymel.log
+xgen
+乔良分析美国金融霸权.mp4
+(base) chaozhi:~ leo$ cd desktop
+(base) chaozhi:desktop leo$ cd version
+(base) chaozhi:version leo$ ls
+version01	version1.txt
+(base) chaozhi:version leo$ git add version1.txt
+(base) chaozhi:version leo$ git commit
+hint: Waiting for your editor to close the file... error: There was a problem with the editor 'vi'.
+Please supply the message using either -m or -F option.
+(base) chaozhi:version leo$ ls
+version01	version1.txt
+(base) chaozhi:version leo$ subl version1
+(base) chaozhi:version leo$ subl version1.txt
+(base) chaozhi:version leo$ git add version1.txt
+(base) chaozhi:version leo$ git commit
+hint: Waiting for your editor to close the file... 
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: chaozhi li <leo@chaozhi.lan>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#       new file:   version1.txt
+#
+# Untracked files:
+#       .DS_Store
+#
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+~                                                                                                  
+"~/Desktop/version/.git/COMMIT_EDITMSG" 16L, 311C
